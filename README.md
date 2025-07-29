@@ -34,19 +34,19 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 * **CODEREG (TinkerHack 3.0 Best Project Award)**
     * *Award-winning project at Kerala's largest women's hackathon.* This project aimed to solve [briefly state problem or purpose, e.g., streamline event registrations, automate XYZ process, etc.]. It demonstrates my ability to [mention a key skill shown, e.g., build full-stack applications, work with databases, develop robust backend logic].
     * **Technologies:** [List specific key technologies used, e.g., Python, Flask, Jinja2, PostgreSQL, HTML, CSS, JavaScript]
-    * [Link to Project Repository](https://github.com/your-actual-github-username/tinkerhack-codereg-project-repo) (e.g., `https://github.com/ShadiyaShirinV/codereg-project`)
+    * [Link to Project Repository](https://github.com/ShadiyaShirin/tinkerhack-codereg-project-repo) (e.g., `https://github.com/ShadiyaShirin/codereg-project`)
     * [Link to Live Demo (if applicable)](https://your-codereg-live-demo.com)
 
 * **[Another Important Project Name]**
     * A brief, one-sentence description of this project and what it achieves.
     * **Technologies:** [List key technologies used]
-    * [Link to Project Repository](https://github.com/your-actual-github-username/another-project-repo)
+    * [Link to Project Repository](https://github.com/ShadiyaShirin/another-project-repo)
     * [Link to Live Demo (if applicable)](https://your-another-project-live-demo.com)
 
 * **[A Third Relevant Project Name]**
     * A brief, one-sentence description of this project and its purpose.
     * **Technologies:** [List key technologies used]
-    * [Link to Project Repository](https://github.com/your-actual-github-username/third-project-repo)
+    * [Link to Project Repository](https://github.com/ShadiyaShirin/third-project-repo)
 
 ---
 
@@ -60,11 +60,15 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 
 ---
 
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 [![Shadiya Shirin V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadiyaShirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirin&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
+
+**My GitHub Contribution Streak:**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShadiyaShirin&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ### 🤝 Let's Connect!
