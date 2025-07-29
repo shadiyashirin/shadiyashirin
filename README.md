@@ -47,6 +47,7 @@
 
 [![My GitHub Metrics](https://metrics.lecoq.io/api/ShadiyaShirin?base=header,activity,community,repositories&isocalendar=1&plugin_issues=base&plugin_languages=base&plugin_stars=base&theme=dark)](https://github.com/ShadiyaShirin)
 
+---
 
 ### 🤝 Let's Connect!
 
