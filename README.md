@@ -8,7 +8,7 @@ I'm a passionate Computer Science Engineering student at APJ Abdul Kalam Technol
 
 My journey in tech is fueled by curiosity and a commitment to continuous learning. I love diving deep into backend architectures and am also keen on exploring the fascinating domains of **Cybersecurity** and **Generative AI**, where I've already gained foundational knowledge.
 
-I thrive in collaborative environments and am always eager to contribute to impactful projects. My recent "Best Project Award" at **TinkerHack 3.0**, Kerala's largest women's hackathon (March 2025), highlights my ability to deliver innovative solutions under pressure.
+I thrive in collaborative environments and am always eager to contribute to impactful projects. My recent participation as a **finalist at TinkerHack 3.0**, Kerala's largest women's hackathon (March 2025), highlights my ability to deliver innovative solutions under pressure.
 
 ---
 
@@ -31,8 +31,8 @@ While I'm continuously expanding my skill set, here are some of the technologies
 
 Here are a few projects I'm particularly proud of, showcasing my skills and problem-solving abilities:
 
-* **CODEREG (TinkerHack 3.0 Best Project Award)**
-    * *Award-winning project at Kerala's largest women's hackathon.* This project aimed to solve [briefly state problem or purpose, e.g., streamline event registrations, automate XYZ process, etc.]. It demonstrates my ability to [mention a key skill shown, e.g., build full-stack applications, work with databases, develop robust backend logic].
+* **CODEREG (TinkerHack 3.0 Finalist Project)**
+    * *Finalist project at Kerala's largest women's hackathon.* This project aimed to solve [briefly state problem or purpose, e.g., streamline event registrations, automate XYZ process, etc.]. It demonstrates my ability to [mention a key skill shown, e.g., build full-stack applications, work with databases, develop robust backend logic].
     * **Technologies:** [List specific key technologies used, e.g., Python, Flask, Jinja2, PostgreSQL, HTML, CSS, JavaScript]
     * [Link to Project Repository](https://github.com/ShadiyaShirin/tinkerhack-codereg-project-repo) (e.g., `https://github.com/ShadiyaShirin/codereg-project`)
     * [Link to Live Demo (if applicable)](https://your-codereg-live-demo.com)
