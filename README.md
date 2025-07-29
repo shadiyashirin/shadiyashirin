@@ -40,16 +40,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShadiyaShirin&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-**My Contribution Grid:**
-
-[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=shadiyashirin&theme=dark)](https://github.com/shadiyashirin?tab=overview&from=2024-01-01&to=2024-12-31)
 
 ---
 
 ### 🤝 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/shadiya-shirin-v/)
-* **Email:** [Your Professional Email Address]
-* **Personal Website/Portfolio:** [Your Personal Website URL (if you have one, otherwise remove this line)]
+* **LinkedIn:(https://www.linkedin.com/in/shadiya-shirin-v/)
+* **Email:** vshadiyashirin2003@gmail.com
+
 
 ---
