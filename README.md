@@ -60,14 +60,15 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Contributions & Stats
 
 [![Shadiya Shirin V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadiyaShirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirin&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
 
-**My GitHub Contribution Streak:**
+**My Contribution Grid:**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShadiyaShirin&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=ShadiyaShirin&theme=dark)](https://github.com/your-username?tab=overview&from=2024-01-01&to=2024-12-31)
+
 
 ---
 
