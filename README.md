@@ -2,13 +2,13 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me:
 
-I'm a passionate Computer Science Engineering student at APJ Abdul Kalam Technological University, actively pursuing opportunities as a **Software Engineer** and **Back-End Developer**. Based in Kannur, India, I'm driven by a desire to build robust, efficient, and scalable solutions that address real-world challenges.
+**Computer Science Engineering Student** | **Aspiring Software & Back-End Developer**
 
-My journey in tech is fueled by curiosity and a commitment to continuous learning. I love diving deep into backend architectures and am also keen on exploring the fascinating domains of **Cybersecurity** and **Generative AI**, where I've already gained foundational knowledge through certifications.
-
-I thrive in collaborative environments and am always eager to contribute to impactful projects. My recent participation as a **finalist at TinkerHack 3.0**, Kerala's largest women's hackathon (March 2025), highlights my ability to deliver innovative solutions under pressure.
+* Focused on building robust & scalable solutions
+* Passionate about: Cybersecurity, Generative AI
+* Finalist at TinkerHack 3.0
 
 ---
 
