@@ -45,7 +45,7 @@
 
 ### 🤝 Let's Connect!
 
-* **LinkedIn:(https://www.linkedin.com/in/shadiya-shirin-v/)
+* **LinkedIn(https://www.linkedin.com/in/shadiya-shirin-v/
 * **Email:** vshadiyashirin2003@gmail.com
 
 
