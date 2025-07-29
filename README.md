@@ -42,7 +42,7 @@
 
 **My Contribution Grid:**
 
-[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=ShadiyaShirin&theme=dark)](https://github.com/ShadiyaShirin?tab=overview&from=2024-01-01&to=2024-12-31)
+[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=shadiyashirin&theme=dark)](https://github.com/shadiyashirin?tab=overview&from=2024-01-01&to=2024-12-31)
 
 ---
 
