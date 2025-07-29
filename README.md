@@ -66,7 +66,6 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirin&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
 
 **My Contribution Grid:**
-
 [![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=ShadiyaShirin&theme=dark)](https://github.com/ShadiyaShirin?tab=overview&from=2024-01-01&to=2024-12-31)
 
 ---
