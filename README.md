@@ -6,7 +6,7 @@
 
 I'm a passionate Computer Science Engineering student at APJ Abdul Kalam Technological University, actively pursuing opportunities as a **Software Engineer** and **Back-End Developer**. Based in Kannur, India, I'm driven by a desire to build robust, efficient, and scalable solutions that address real-world challenges.
 
-My journey in tech is fueled by curiosity and a commitment to continuous learning. I love diving deep into backend architectures and am also keen on exploring the fascinating domains of **Cybersecurity** and **Generative AI**, where I've already gained foundational knowledge.
+My journey in tech is fueled by curiosity and a commitment to continuous learning. I love diving deep into backend architectures and am also keen on exploring the fascinating domains of **Cybersecurity** and **Generative AI**, where I've already gained foundational knowledge through certifications.
 
 I thrive in collaborative environments and am always eager to contribute to impactful projects. My recent participation as a **finalist at TinkerHack 3.0**, Kerala's largest women's hackathon (March 2025), highlights my ability to deliver innovative solutions under pressure.
 
@@ -14,16 +14,14 @@ I thrive in collaborative environments and am always eager to contribute to impa
 
 ### 🛠️ Technologies & Tools
 
-While I'm continuously expanding my skill set, here are some of the technologies and tools I'm currently working with or proficient in:
+Here are some of the technologies and tools I'm proficient in:
 
 | Category      | Technologies                                                                                                                                                                                                                                                                              |
 | :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| **Tools/Concepts** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white) Agile Methodologies ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Security/AI** | Cybersecurity Concepts Generative AI |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -33,7 +31,7 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 
 * **CODEREG (TinkerHack 3.0 Finalist Project)**
     * *Finalist project at Kerala's largest women's hackathon.* This project aimed to solve [briefly state problem or purpose, e.g., streamline event registrations, automate XYZ process, etc.]. It demonstrates my ability to [mention a key skill shown, e.g., build full-stack applications, work with databases, develop robust backend logic].
-    * **Technologies:** [List specific key technologies used, e.g., Python, Flask, Jinja2, PostgreSQL, HTML, CSS, JavaScript]
+    * **Technologies:** [List specific key technologies used, e.g., Python, Django, MySQL, HTML, CSS, JavaScript]
     * [Link to Project Repository](https://github.com/ShadiyaShirin/tinkerhack-codereg-project-repo) (e.g., `https://github.com/ShadiyaShirin/codereg-project`)
     * [Link to Live Demo (if applicable)](https://your-codereg-live-demo.com)
 
