@@ -64,7 +64,7 @@ Here are a few projects I'm particularly proud of, showcasing my skills and prob
 ### 📊 GitHub Stats
 
 [![Shadiya Shirin V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadiyaShirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirinV&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirin&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
 ---
 
 ### 🤝 Let's Connect!
