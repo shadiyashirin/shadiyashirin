@@ -16,14 +16,14 @@ I thrive in collaborative environments and am always eager to contribute to impa
 
 While I'm continuously expanding my skill set, here are some of the technologies and tools I'm currently working with or proficient in:
 
-| Category      | Technologies                                             |
-| :------------ | :------------------------------------------------------- |
-| **Languages** | `Python` `Java` `JavaScript` `SQL` `C++` (Adapt based on your primary languages) |
-| **Backend** | `Node.js` `Django` `Flask` `Spring Boot` (Update based on your backend focus, e.g., if you primarily use Java with Spring Boot or Python with Django/Flask) |
-| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `SQLite` (Add others you use)     |
-| **Cloud** | `AWS` `Azure` `Google Cloud Platform` (If you have experience, otherwise remove/add basic cloud concepts) |
-| **Tools/Concepts** | `Git` `Docker` `REST APIs` `Agile Methodologies` `Linux` `VS Code` (Add more relevant tools/concepts) |
-| **Security/AI** | `Cybersecurity Concepts` `Generative AI` (Based on your certifications) |
+| Category      | Technologies                                                                                                                                                                                                                                                                              |
+| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Tools/Concepts** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white) Agile Methodologies ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Security/AI** | Cybersecurity Concepts Generative AI |
 
 ---
 
