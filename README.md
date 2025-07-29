@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -28,39 +28,6 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### ✨ Featured Projects
-
-Here are a few projects I'm particularly proud of, showcasing my skills and problem-solving abilities:
-
-* **CODEREG (TinkerHack 3.0 Finalist Project)**
-    * *Finalist project at Kerala's largest women's hackathon.* This project aimed to solve [briefly state problem or purpose, e.g., streamline event registrations, automate XYZ process, etc.]. It demonstrates my ability to [mention a key skill shown, e.g., build full-stack applications, work with databases, develop robust backend logic].
-    * **Technologies:** [List specific key technologies used, e.g., Python, Django, MySQL, HTML, CSS, JavaScript]
-    * [Link to Project Repository](https://github.com/ShadiyaShirin/tinkerhack-codereg-project-repo) (e.g., `https://github.com/ShadiyaShirin/codereg-project`)
-    * [Link to Live Demo (if applicable)](https://your-codereg-live-demo.com)
-
-* **[Another Important Project Name]**
-    * A brief, one-sentence description of this project and what it achieves.
-    * **Technologies:** [List key technologies used]
-    * [Link to Project Repository](https://github.com/ShadiyaShirin/another-project-repo)
-    * [Link to Live Demo (if applicable)](https://your-another-project-live-demo.com)
-
-* **[A Third Relevant Project Name]**
-    * A brief, one-sentence description of this project and its purpose.
-    * **Technologies:** [List key technologies used]
-    * [Link to Project Repository](https://github.com/ShadiyaShirin/third-project-repo)
-
----
-
-### 🎓 Education & Certifications
-
-* **Computer Science Engineering** - APJ Abdul Kalam Technological University
-* **Foundations of Cybersecurity** - Google (Issued Feb 2024)
-    * [Show Credential](https://www.credly.com/badges/2Q5FX2ERJ24M)
-* **Introduction to Generative AI** - Google (Issued Feb 2024)
-    * [Show Credential](https://www.credly.com/badges/7942573)
 
 ---
 
