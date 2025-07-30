@@ -40,8 +40,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shadiyashirin&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shadiyashirin&theme=dark" alt="GitHub Streak" /></a>
----
 
 ### 🤝 Let's Connect!
 
