@@ -7,7 +7,7 @@
 **Computer Science Engineering Student** | **Aspiring Software & Back-End Developer**
 
 * Focused on building robust & scalable solutions
-* Passionate about: Cybersecurity, Generative AI
+* Passionate about: Web development, Cybersecurity
 * Finalist at TinkerHack 3.0
 
 ---
